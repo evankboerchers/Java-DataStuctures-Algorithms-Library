@@ -1,0 +1,14 @@
+# Intellij
+.idea/*
+*.iml
+
+# Vscode
+.classpath
+.project
+.settings
+.vscode
+
+# Gradle
+.gradle/*
+
+*/build/*
